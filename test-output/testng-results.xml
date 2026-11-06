@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-11-01T14:54:43 IST" name="Default suite" finished-at="2026-11-01T14:55:36 IST" duration-ms="53056">
+    <groups>
+    </groups>
+    <test started-at="2026-11-01T14:54:43 IST" name="Default test" finished-at="2026-11-01T14:55:36 IST" duration-ms="53056">
+      <class name="swagtestpkg.Swaglogintest">
+        <test-method is-config="true" signature="browsersetup()[pri:0, instance:swagtestpkg.Swaglogintest@3fc2959f]" started-at="2026-11-01T14:54:43 IST" name="browsersetup" finished-at="2026-11-01T14:55:33 IST" duration-ms="50352" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browsersetup -->
+        <test-method is-config="true" signature="mthd(java.lang.reflect.Method)[pri:0, instance:swagtestpkg.Swaglogintest@3fc2959f]" started-at="2026-11-01T14:55:33 IST" name="mthd" finished-at="2026-11-01T14:55:33 IST" duration-ms="21" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void swagtestpkg.Swaglogintest.login() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mthd -->
+        <test-method signature="login()[pri:1, instance:swagtestpkg.Swaglogintest@3fc2959f]" started-at="2026-11-01T14:55:33 IST" name="login" finished-at="2026-11-01T14:55:35 IST" duration-ms="2215" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="validation()[pri:2, instance:swagtestpkg.Swaglogintest@3fc2959f]" started-at="2026-11-01T14:55:35 IST" name="validation" finished-at="2026-11-01T14:55:35 IST" duration-ms="18" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validation -->
+        <test-method is-config="true" signature="mthd(java.lang.reflect.Method)[pri:0, instance:swagtestpkg.Swaglogintest@3fc2959f]" started-at="2026-11-01T14:55:35 IST" name="mthd" finished-at="2026-11-01T14:55:35 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void swagtestpkg.Swaglogintest.validation()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mthd -->
+        <test-method is-config="true" signature="aftmthd(org.testng.ITestResult)[pri:0, instance:swagtestpkg.Swaglogintest@3fc2959f]" started-at="2026-11-01T14:55:35 IST" name="aftmthd" finished-at="2026-11-01T14:55:35 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=login status=SUCCESS method=Swaglogintest.login()[pri:1, instance:swagtestpkg.Swaglogintest@3fc2959f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftmthd -->
+        <test-method is-config="true" signature="mthd(java.lang.reflect.Method)[pri:0, instance:swagtestpkg.Swaglogintest@3fc2959f]" started-at="2026-11-01T14:55:35 IST" name="mthd" finished-at="2026-11-01T14:55:35 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void swagtestpkg.Swaglogintest.swagtitleverification()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mthd -->
+        <test-method is-config="true" signature="aftmthd(org.testng.ITestResult)[pri:0, instance:swagtestpkg.Swaglogintest@3fc2959f]" started-at="2026-11-01T14:55:35 IST" name="aftmthd" finished-at="2026-11-01T14:55:35 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validation status=SUCCESS method=Swaglogintest.validation()[pri:2, instance:swagtestpkg.Swaglogintest@3fc2959f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftmthd -->
+        <test-method signature="swagtitleverification()[pri:3, instance:swagtestpkg.Swaglogintest@3fc2959f]" started-at="2026-11-01T14:55:35 IST" name="swagtitleverification" finished-at="2026-11-01T14:55:35 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- swagtitleverification -->
+        <test-method is-config="true" signature="endReport()[pri:0, instance:swagtestpkg.Swaglogintest@3fc2959f]" started-at="2026-11-01T14:55:35 IST" name="endReport" finished-at="2026-11-01T14:55:36 IST" duration-ms="414" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+        <test-method is-config="true" signature="aftmthd(org.testng.ITestResult)[pri:0, instance:swagtestpkg.Swaglogintest@3fc2959f]" started-at="2026-11-01T14:55:35 IST" name="aftmthd" finished-at="2026-11-01T14:55:35 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=swagtitleverification status=SUCCESS method=Swaglogintest.swagtitleverification()[pri:3, instance:swagtestpkg.Swaglogintest@3fc2959f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftmthd -->
+      </class> <!-- swagtestpkg.Swaglogintest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
